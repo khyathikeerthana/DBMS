@@ -1,0 +1,25 @@
+Ex.No. 2
+Date:
+DDL Commands with Constraints – PRIMARY, FOREIGN KEY, UNIQUE, CHECK
+
+Alter the table STUDENT with following structure.
+
+
+
+Alter the table name FACULTY with following structure. The DeptNo in this table refers the DeptNo in the DEPARTMENT table.
+
+
+
+
+
+
+
+3) After the FACULTY table is successfully created, test if you can add a constraint FOREIGN KEY to the DeptNo of this table.
+
+
+4)Alter the table name DEPARTMENT with following structure.
+
+
+
+5) Alter the table name COURSE with following structure.
+
