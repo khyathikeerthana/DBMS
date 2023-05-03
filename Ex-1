@@ -1,0 +1,31 @@
+Ex.No. 1
+Date:
+DDL Commands – CREATE, ALTER, DROP
+
+Questions:
+Create a table name STUDENT with following structure. mysql> create table student (regno int (3), name varchar (15), gender char (1), dob date, mobile no int (1), city varchar(15));
+
+
+
+
+2)Create a table name FACULTY with following structure mysql> CREATE Table FACULTY(FacNo VARCHAR(4), FacName VARCHAR(15), Gender CHAR(1), DOB DATE, DOJ DATE, MobileNo int(10))
+
+
+
+
+
+
+3)Create a table name DEPARTMENT with following structure. mysql> CREATE Table DEPARTMENT(DeptNo VARCHAR(4), DeptName VARCHAR(15), DeptHead VARCHAR(4))
+
+
+
+4) Create a table name COURSE with following structure. mysql> CREATE Table COURSE(CourseNo VARCHAR(3), CourseDesc VARCHAR(14), CourseType CHAR(1), SemNo CHAR(1), HallNo VARCHAR(4), FacNo VARCHAR(4))
+
+
+
+5) Modify the table FACULTY by adding a column name DeptNo of datatype VARCHAR(4) ) mysql> Alter Table FACULTY add DeptNo VARCHAR(4);
+
+
+
+
+
